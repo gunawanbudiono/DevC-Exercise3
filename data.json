@@ -1,0 +1,86 @@
+{
+    "starships": [{
+            "name": "Executor",
+            "model": "Executor-class star dreadnought",
+            "manufacturer": "Kuat Drive Yards, Fondor Shipyards",
+            "length": "19000",
+            "crew": "279144",
+            "passengers": "38000"
+
+        },
+        {
+            "name": "Sentinel-class landing craft",
+            "model": "Sentinel-class landing craft",
+            "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
+            "length": "38",
+            "crew": "5",
+            "passengers": "75"
+        },
+        {
+            "name": "Death Star",
+            "model": "DS-1 Orbital Battle Station",
+            "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems",
+            "length": "120000",
+            "crew": "342953",
+            "passengers": "843342"
+        },
+        {
+            "name": "Millennium Falcon",
+            "model": "YT-1300 light freighter",
+            "manufacturer": "Corellian Engineering Corporation",
+            "length": "34.37",
+            "crew": "4",
+            "passengers": "6",
+            "cargo_capacity": "100000"
+        },
+        {
+            "name": "Y-wing",
+            "model": "BTL Y-wing",
+            "manufacturer": "Koensayr Manufacturing",
+            "length": "14",
+            "crew": "2",
+            "passengers": "0"
+        },
+        {
+            "name": "X-wing",
+            "model": "T-65 X-wing",
+            "manufacturer": "Incom Corporation",
+            "length": "12.5",
+            "crew": "1",
+            "passengers": "0"
+        },
+        {
+            "name": "TIE Advanced x1",
+            "model": "Twin Ion Engine Advanced x1",
+            "manufacturer": "Sienar Fleet Systems",
+            "length": "9.2",
+            "crew": "1",
+            "passengers": "0",
+            "cargo_capacity": "150"
+        },
+        {
+            "name": "Slave 1",
+            "model": "Firespray-31-class patrol and attack",
+            "manufacturer": "Kuat Systems Engineering",
+            "length": "21.5",
+            "crew": "1",
+            "passengers": "6"
+        },
+        {
+            "name": "Imperial shuttle",
+            "model": "Lambda-class T-4a shuttle",
+            "manufacturer": "Sienar Fleet Systems",
+            "length": "20",
+            "crew": "6",
+            "passengers": "20"
+        },
+        {
+            "name": "EF76 Nebulon-B escort frigate",
+            "model": "EF76 Nebulon-B escort frigate",
+            "manufacturer": "Kuat Drive Yards",
+            "length": "300",
+            "crew": "854",
+            "passengers": "75"
+        }
+    ]
+}
